@@ -1,6 +1,6 @@
 ![img](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
 
-# 프로젝트명: LS 빅데이터 스쿨 2기 학습자료
+# 프로젝트명: LS 빅데이터 스쿨 3기 학습자료
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/woongkiKim/LS_bigdata_school_2)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/woongkiKim/LS_bigdata_school_2)
@@ -9,7 +9,7 @@
 
 > 데이터분석 관련 readme 템플릿을 참고하여 만든 readme 입니다. 출처는 아래에 기입했습니다.
 
-### 프로젝트 기간: 24/05/13 ~ 24/06/19
+### 프로젝트 기간: 24/09/30 ~ 24/11/06
 
 ### 개발환경
 
